@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Nubene/paginas_web_js/issues"
   },
-  "homepage": "https://github.com/Nubene/paginas_web_js#readme"
+  "homepage": "https://github.com/Nubene/paginas_web_js#readme",
+  "keywords": [],
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
